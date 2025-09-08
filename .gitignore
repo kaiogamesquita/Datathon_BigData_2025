@@ -1,0 +1,21 @@
+# Dados e saídas
+data/*
+output/*
+!data/README.md
+!output/README.md
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
