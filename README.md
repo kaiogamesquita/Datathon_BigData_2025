@@ -12,7 +12,7 @@ Construir uma solução de previsão que:
 - Entregue resultados consistentes e reprodutíveis.
 - Demonstre qualidade técnica e criatividade na abordagem.
 
----
+----
 
 ## 📂 Estrutura do Repositório
 
@@ -30,4 +30,12 @@ Construir uma solução de previsão que:
    ```bash
    git clone https://github.com/kaiogamesquita/Datathon_BigData_2025.git
    cd Datathon_BigData_2025
+
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+
+3. Execute o pipeline principal:
+   ```bash
+   python src/train.py 
 
