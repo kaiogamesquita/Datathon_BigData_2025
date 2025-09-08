@@ -43,6 +43,7 @@ Construir uma solução de previsão que:
 📊 Resultados esperados
 
 Formato de entrega:
+
 Semana | PDV | Produto | Quantidade
 2023-01 | 001 | ABC123 | 57
 2023-01 | 001 | XYZ987 | 12
@@ -51,6 +52,7 @@ Semana | PDV | Produto | Quantidade
 ---
 
 👥 Autor
+
 Kaio Gefferson de Almeida Mesquita
 Doutorando em Engenharia de Transportes (UFC)
 Foco em confiabilidade operacional, acessibilidade e inteligência artificial aplicada a transportes.
