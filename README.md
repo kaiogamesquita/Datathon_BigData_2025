@@ -45,7 +45,9 @@ Construir uma solução de previsão que:
 Formato de entrega:
 
 Semana | PDV | Produto | Quantidade
+
 2023-01 | 001 | ABC123 | 57
+
 2023-01 | 001 | XYZ987 | 12
 ...
 
